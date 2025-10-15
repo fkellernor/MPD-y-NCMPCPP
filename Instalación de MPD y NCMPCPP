@@ -53,7 +53,9 @@ audio_output {
  use_mmap "yes"
 }
 
-# Iniciamos en la terminal mpd, al finalizar puede arrojar error de socket, ignorar este error y escribimos ncmpcpp para abrirlo.
+# Cerrar y guardar archivo
+
+# Iniciamos en la terminal mpd, escribiendo mpd al finalizar puede arrojar error de socket, ignorar este error y escribimos ncmpcpp para abrirlo.
 
 # En caso de actualizar y no se escuche es normal que esto suceda, usamos:
 
