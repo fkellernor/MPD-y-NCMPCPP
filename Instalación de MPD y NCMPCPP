@@ -1,6 +1,6 @@
 # MPD y NCMPCPP
 
-Instalación de MPD y NCMPCPP en MacBook Air M1
+Instalación de MPD y NCMPCPP en MacBook Air M1 2020
 
 # Instalar Homebrew obligatorio
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
